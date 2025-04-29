@@ -28,7 +28,3 @@
 
 <br/>
 
-<a href="https://github.com/egaiosowor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=egaiosowor&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egaiosowor&theme=buefy&layout=compact" />
-</a>
