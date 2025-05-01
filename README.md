@@ -4,7 +4,7 @@ I build scalable, performant, and accessible web apps with a focus on clean arch
 
 - 🧠 Advocate for accessible, compliant UI (WCAG/ADA, GDPR)
 - ⚙️ Strong in component abstraction, design systems, and cross-functional collaboration
-- 🚀 Thrive in fast-paced Agile teams; always delivering with attention to 
+- 🚀 Thrive in fast-paced Agile teams; always delivering with attention to detail
 
 Skills & Technologies:
 
