@@ -18,6 +18,6 @@ Skills & Technologies:
 
 🔧 Git, GitHub
 
-🗂️ Redux, RTK Query, Zustand, React Query
+🗂️ Zustand, React Query
 
 Let's build meaningful experiences—code that serves real users
