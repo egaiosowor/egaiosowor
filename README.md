@@ -8,7 +8,7 @@ I build scalable, performant, and accessible web apps with a focus on clean arch
 
 Skills & Technologies:
 
-🧱 HTML, CSS, JavaScript, TypeScript
+🧱 HTML, CSS, JavaScript, TypeScript, Python
 
 🎨 Styled Components, Tailwind CSS
 
