@@ -14,13 +14,13 @@ design, and writing maintainable, future-proof code.
 
 🛠️ Skills & Technologies
 
-🧱 HTML, CSS, JavaScript, TypeScript, Python
+🧱 HTML, CSS, JavaScript, TypeScript
 
 🎨 Tailwind CSS
 
-⚛️ React.js, Next.js, Astro.js
+⚛️ React.js, Next.js, Astro.js, React Native
 
-🗄️ Node.js, Express, FastAPI, RESTful APIs, SQL
+🗄️ Node.js, Express, RESTful APIs, SQL
 
 🗂️ Zustand, React Query
 
