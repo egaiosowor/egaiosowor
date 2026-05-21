@@ -1,6 +1,6 @@
 👋 Hi, I'm a Full Stack Developer
 
-I build scalable, performant, and accessible web and mobile apps with a focus on clean
+I build scalable, performant, and accessible web apps with a focus on clean
 architecture and reusability. Passionate about interaction design, system
 design, and writing maintainable, future-proof code.
 
@@ -18,7 +18,7 @@ design, and writing maintainable, future-proof code.
 
 🎨 Tailwind CSS
 
-⚛️ React.js, Next.js, Astro.js, React Native
+⚛️ React.js, Next.js, Astro.js
 
 🗄️ Node.js, Express, RESTful APIs, SQL
 
