@@ -20,7 +20,7 @@ design, and writing maintainable, future-proof code.
 
 ⚛️ React.js, Next.js, Astro.js
 
-🗄️ Node.js, Express, RESTful APIs, SQL
+🗄️ Node.js, Express, RESTful APIs, PSQL, MongoDB
 
 🗂️ Zustand, React Query
 
