@@ -18,9 +18,9 @@ design, and writing maintainable, future-proof code.
 
 🎨 Tailwind CSS
 
-⚛️ React.js, Next.js, Astro.js
+⚛️ React.js, Next.js, Astro.js, React Native
 
-🗄️ Node.js, Express, RESTful APIs, PSQL, MongoDB
+🗄️ Node.js, Express,Python, RESTful APIs, PSQL, MongoDB
 
 🗂️ Zustand, React Query
 
